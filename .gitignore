@@ -10,3 +10,8 @@ ml/*
 old/
 *.pdf
 .python-version
+__pycache__
+*.csv
+*.db
+*.parquet
+data/
